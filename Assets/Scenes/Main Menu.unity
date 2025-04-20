@@ -192,7 +192,7 @@ GameObject:
   - component: {fileID: 117870309}
   - component: {fileID: 117870310}
   m_Layer: 0
-  m_Name: Audio Manager
+  m_Name: Global Audio
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -238,7 +238,7 @@ GameObject:
   - component: {fileID: 282915056}
   - component: {fileID: 282915057}
   m_Layer: 0
-  m_Name: Sounds
+  m_Name: Menu Twinkle
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1562,7 +1562,7 @@ AudioSource:
   OutputAudioMixerGroup: {fileID: 0}
   m_audioClip: {fileID: 8300000, guid: eca8a3ab30dfccc41b48ae2a6397e2fe, type: 3}
   m_PlayOnAwake: 1
-  m_Volume: 0.4
+  m_Volume: 0.35
   m_Pitch: 1
   Loop: 1
   Mute: 0

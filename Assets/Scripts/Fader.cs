@@ -17,8 +17,8 @@ public class Fader : MonoBehaviour
 
     public void FadeMeIn()
     {
-        finalAlpha = 1;
-        deltaAlpha = 1 * DeltaSize;
+        finalAlpha = 0;
+        deltaAlpha = -1 * DeltaSize;
         GoFade();
     }
 
